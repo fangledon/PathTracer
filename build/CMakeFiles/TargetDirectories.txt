@@ -1,0 +1,4 @@
+/Users/don/Desktop/CSE168/HW4/build/CMakeFiles/rebuild_cache.dir
+/Users/don/Desktop/CSE168/HW4/build/CMakeFiles/edit_cache.dir
+/Users/don/Desktop/CSE168/HW4/build/CMakeFiles/pathtracer_cli.dir
+/Users/don/Desktop/CSE168/HW4/build/CMakeFiles/pathtracer_lib.dir

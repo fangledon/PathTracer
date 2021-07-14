@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libpathtracer.a CMakeFiles/pathtracer_lib.dir/src/Engine.cpp.o CMakeFiles/pathtracer_lib.dir/src/Scene.cpp.o CMakeFiles/pathtracer_lib.dir/src/SceneLoader.cpp.o CMakeFiles/pathtracer_lib.dir/src/RenderPool.cpp.o CMakeFiles/pathtracer_lib.dir/src/RayTracerIntegrator.cpp.o CMakeFiles/pathtracer_lib.dir/src/lodepng/lodepng.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libpathtracer.a
